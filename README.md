@@ -1,4 +1,4 @@
-# self-easy-clock
+# Timezone Clock App
 Basic clock web application
 
 Simple web application, that allows users to get information of current time in different timezones.
