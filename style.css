@@ -19,6 +19,7 @@ main {
   color: #E5E3ED;
 
   font-family: "Ubuntu", sans-serif;
+  font-display: swap;
 }
 
 h1 {
