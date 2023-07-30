@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
+  font-family: "Ubuntu", sans-serif;
+  font-display: swap;
 }
 
 main {
@@ -17,9 +20,6 @@ main {
 
   background: #111019;
   color: #E5E3ED;
-
-  font-family: "Ubuntu", sans-serif;
-  font-display: swap;
 }
 
 h1 {
