@@ -37,6 +37,6 @@ const interval = setInterval(() => {
     timezone.innerHTML = now_time[1]
 }, 1000)
 
-document.addEventListener('close', () => {
+document.addEventListener('beforeunload', () => {
     clearInterval(interval)
 })
